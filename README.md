@@ -3,6 +3,10 @@
 ## what is dns-check ?
 dns-check is tools open source to check dns record domain
 
+### note
+- python 3.9
+- error if use python 3.8 or before
+
 ### how to use it ?
 ```curl
     curl --request POST \
