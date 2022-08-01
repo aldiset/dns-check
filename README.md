@@ -13,3 +13,15 @@ dns-check is tools open source to check dns record domain
       "dns_type":"ns"
     }'
 ```
+
+### response
+```curl
+    {
+	"data": [
+		"ns4.google.com.",
+		"ns2.google.com.",
+		"ns3.google.com.",
+		"ns1.google.com."
+        ]
+    }
+```
